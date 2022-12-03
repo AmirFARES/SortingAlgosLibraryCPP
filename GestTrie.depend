@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573859889 source:e:\c++\s3\gesttrie\main.cpp
+	<iostream>
+	"GestTrie.h"
+
+1573859887 e:\c++\s3\gesttrie\gesttrie.h
+	<iostream>
+
